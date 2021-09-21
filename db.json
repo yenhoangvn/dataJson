@@ -1,18 +1,48 @@
 {
     "Vinfast": [
-        "Vinfast Fadil"
+        {
+            "name": "Vinfast Fadil",
+            "image": "R.drawable.test_model_thumbnail"
+        }
     ],
     "Mitsubishi": [
-        "Mitsubishi Triton",
-        "Mitsubishi Xpander",
-        "Mitsubishi Outlander"
+        {
+            "name": "Mitsubishi Triton",
+            "image": "R.drawable.test_model_thumbnail"
+        },
+        {
+            "name": "Mitsubishi Xpander",
+            "image": "R.drawable.test_model_thumbnail"
+        },
+        {
+            "name": "Mitsubishi Outlander",
+            "image": "R.drawable.test_model_thumbnail"
+        }
     ],
     "Toyota": [
-        "Toyota Vios",
-        "Toyota Innova",
-        "Toyota Fotuner",
-        "Toyota Cross",
-        "Toyota Corolla Altis",
-        "Toyotan Camry"
+        {
+            "name": "Toyota Vios",
+            "image": "R.drawable.test_model_thumbnail"
+        },
+        {
+            "name": "Toyota Innova",
+            "image": "R.drawable.test_model_thumbnail"
+        },
+        {
+            "name": "Toyota Fotuner",
+            "image": "R.drawable.test_model_thumbnail"
+        },
+        {
+            "name": "Toyota Cross",
+            "image": "R.drawable.test_model_thumbnail"
+        },
+        {
+            "name": "Toyota Corolla Altis",
+            "image": "R.drawable.test_model_thumbnail"
+        },
+        {
+            "name": "Toyotan Camry",
+            "image": "R.drawable.test_model_thumbnail"
+        }
     ]
 }
