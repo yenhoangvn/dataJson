@@ -1,0 +1,27 @@
+{
+    {
+        "name": "Vinfast",
+        "model": [
+            "Vinfast Fadil"
+        ]
+    },
+    {
+        "name": "Mitsubishi",
+        "model": [
+            "Mitsubishi Triton",
+            "Mitsubishi Xpander",
+            "Mitsubishi Outlander"
+        ]
+    },
+    {
+        "name": "Toyota",
+        "model": [
+            "Toyota Vios",
+            "Toyota Innova",
+            "Toyota Fotuner",
+            "Toyota Cross",
+            "Toyota Corolla Altis",
+            "Toyotan Camry"
+        ]
+    }
+}
